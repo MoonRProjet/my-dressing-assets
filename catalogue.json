@@ -1,0 +1,22 @@
+[
+  {
+    "id": "item_001",
+    "name": "Veste Archiv",
+    "brand": "Rick Owens",
+    "imagePath": "https://raw.githubusercontent.com/TonPseudo/my-dressing-assets/main/shop/rick_veste.jpg",
+    "mainCategory": "Haut",
+    "subCategory": "Veste",
+    "price": 850.0,
+    "isSponsor": true
+  },
+  {
+    "id": "item_002",
+    "name": "B22 Sneaker",
+    "brand": "Dior",
+    "imagePath": "https://raw.githubusercontent.com/TonPseudo/my-dressing-assets/main/shop/dior_b22.jpg",
+    "mainCategory": "Chaussures",
+    "subCategory": "Baskets",
+    "price": 990.0,
+    "isSponsor": false
+  }
+]
