@@ -1,22 +1,12 @@
 [
   {
     "id": "item_001",
-    "name": "Veste Archiv",
-    "brand": "Rick Owens",
-    "imagePath": "https://raw.githubusercontent.com/TonPseudo/my-dressing-assets/main/shop/rick_veste.jpg",
-    "mainCategory": "Haut",
-    "subCategory": "Veste",
-    "price": 850.0,
-    "isSponsor": true
-  },
-  {
-    "id": "item_002",
-    "name": "B22 Sneaker",
-    "brand": "Dior",
-    "imagePath": "https://raw.githubusercontent.com/TonPseudo/my-dressing-assets/main/shop/dior_b22.jpg",
+    "name": "NB 1906L",
+    "brand": "New Balance",
+    "imagePath": "shop/chaussures/NB-1906L-Photoroom.png",
     "mainCategory": "Chaussures",
     "subCategory": "Baskets",
-    "price": 990.0,
+    "price": 160,
     "isSponsor": false
-  }
+  },
 ]
