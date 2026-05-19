@@ -48,5 +48,16 @@
     "subCategory": "Gilet",
     "price": 90.0,
     "isSponsor": false
+  },
+  {
+    "id": "item_1779172496771",
+    "name": "Gilet Japan Style Bleu Délavé",
+    "brand": "That's Life",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/hauts/img_1779172494089.png",
+    "mainCategory": "Haut",
+    "subCategory": "Gilet",
+    "price": 89.99,
+    "isSponsor": false,
+    "colorValue": 4279836466
   }
 ]
