@@ -18,5 +18,15 @@
     "subCategory": "Jean",
     "price": 0.0,
     "isSponsor": false
+  },
+  {
+    "id": "item_1779169613093",
+    "name": "Jean Baggy",
+    "brand": "Zara",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/bas/img_1779169609894.png",
+    "mainCategory": "Bas",
+    "subCategory": "Jean",
+    "price": 39.99,
+    "isSponsor": false
   }
 ]
