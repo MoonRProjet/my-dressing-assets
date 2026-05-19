@@ -49,5 +49,16 @@
     "price": 89.99,
     "isSponsor": false,
     "colorValue": 4279836466
+  },
+  {
+    "id": "item_1779172573319",
+    "name": "New Balance 1906L",
+    "brand": "New Balance",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/chaussures/img_1779172570618.png",
+    "mainCategory": "Chaussures",
+    "subCategory": "Ville",
+    "price": 159.99,
+    "isSponsor": true,
+    "colorValue": 4281471769
   }
 ]
