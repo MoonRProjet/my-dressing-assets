@@ -8,5 +8,15 @@
     "subCategory": "Baskets",
     "price": 160,
     "isSponsor": false
+  },
+  {
+    "id": "item_1779169578874",
+    "name": "Jean Baggy Bleu",
+    "brand": "",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/bas/img_1779169573991.png",
+    "mainCategory": "Bas",
+    "subCategory": "Jean",
+    "price": 0.0,
+    "isSponsor": false
   }
 ]
