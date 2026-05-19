@@ -48,5 +48,15 @@
     "subCategory": "Jean",
     "price": 52.95,
     "isSponsor": false
+  },
+  {
+    "id": "item_1779170094309",
+    "name": "Veste Japan Style Délavé Noir",
+    "brand": "That's Life",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/hauts/img_1779170091624.png",
+    "mainCategory": "Haut",
+    "subCategory": "Gilet",
+    "price": 90.0,
+    "isSponsor": false
   }
 ]
