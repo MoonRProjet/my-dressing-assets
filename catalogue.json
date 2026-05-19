@@ -58,7 +58,7 @@
     "mainCategory": "Chaussures",
     "subCategory": "Ville",
     "price": 159.99,
-    "isSponsor": true,
+    "isSponsor": false,
     "colorValue": 4281471769
   }
 ]
