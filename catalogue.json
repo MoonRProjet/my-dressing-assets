@@ -1,15 +1,5 @@
 [
   {
-    "id": "item_001",
-    "name": "NB 1906L",
-    "brand": "New Balance",
-    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/chaussures/NB-1906L-Photoroom.png",
-    "mainCategory": "Chaussures",
-    "subCategory": "Baskets",
-    "price": 160,
-    "isSponsor": false
-  },
-  {
     "id": "item_1779169613093",
     "name": "Jean Baggy",
     "brand": "Zara",
