@@ -28,5 +28,15 @@
     "subCategory": "Jean",
     "price": 39.99,
     "isSponsor": false
+  },
+  {
+    "id": "item_1779169754508",
+    "name": "Veste Japan Style Marron Délavé",
+    "brand": "That's Life",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/hauts/img_1779169751671.png",
+    "mainCategory": "Haut",
+    "subCategory": "Gilet",
+    "price": 90.0,
+    "isSponsor": false
   }
 ]
