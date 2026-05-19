@@ -38,5 +38,15 @@
     "subCategory": "Gilet",
     "price": 90.0,
     "isSponsor": false
+  },
+  {
+    "id": "item_1779169835809",
+    "name": "Jean Baggy Denim",
+    "brand": "That's Life",
+    "imagePath": "https://raw.githubusercontent.com/MoonRProjet/my-dressing-assets/main/shop/bas/img_1779169833020.png",
+    "mainCategory": "Bas",
+    "subCategory": "Jean",
+    "price": 52.95,
+    "isSponsor": false
   }
 ]
